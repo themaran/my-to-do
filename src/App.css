@@ -1,0 +1,8 @@
+.addButton{
+    background-image: url('./assets/add.png');
+    background-size: cover;
+}
+.removeButton{
+    background-image: url('./assets/remove.png');
+    background-size: cover;
+}
